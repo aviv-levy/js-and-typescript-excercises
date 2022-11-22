@@ -1,0 +1,9 @@
+.colors{
+    display: flex;
+    margin-top: 30px;
+}
+
+.sizecolor{
+    width: 150px;
+    height: 150px;
+}
